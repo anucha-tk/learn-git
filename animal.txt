@@ -2,4 +2,5 @@ dog
 bird
 ant
 cat
+fish
 dolphin
